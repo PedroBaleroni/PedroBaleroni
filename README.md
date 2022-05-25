@@ -14,5 +14,5 @@ Interested in learning more
   - Artificial Intelligence;
   - 3D Printing & PID;
 - 📫 How to reach me:
-  - [LinkedIn]([https://www.linkedin.com/in/pedrobaleroni/])
+  - [LinkedIn](https://www.linkedin.com/in/pedrobaleroni)
   - [E-mail](mailto:pbaleroni@gmail.com)
