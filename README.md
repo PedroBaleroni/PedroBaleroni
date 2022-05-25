@@ -9,7 +9,7 @@ Birthplace: Alto Piquiri, PR - Brasil
 Interested in learning more
 
 - 💻 I have experience working with C++, Python, SQL, PHP(Laravel), Angular & some MODIFIED ASSEMBLY 
-- 🔭 I’m currently working as a front-end
+- 🔭 I’m currently working as a BACK-END DEVELOPER
 - 🌱 I’m currently learning
   - Artificial Intelligence;
   - 3D Printing & PID;
