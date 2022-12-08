@@ -2,9 +2,6 @@
 
 Name: Pedro Baleroni
 
-Age: 23 years old
-
-Birthplace: Alto Piquiri, PR - Brasil
 
 Interested in learning more
 
