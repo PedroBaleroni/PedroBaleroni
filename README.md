@@ -15,6 +15,6 @@ I'm Pedro Baleroni, a computer engineer with a keen interest in exploring new te
 ## Get in Touch
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/pedrobaleroni)
 - **E-mail:** [Drop me an email](mailto:pbaleroni@gmail.com)
-- **IG** [FOLLOW ME](instagram.com/pedorbaleroni)
+- **IG:** [Follow me](https://instagram.com/pedorbaleroni)
 
 Feel free to reach out if you share similar interests or have exciting opportunities to discuss. Let's connect and create something amazing together!
