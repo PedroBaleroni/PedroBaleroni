@@ -4,7 +4,7 @@ I'm Pedro Baleroni, a computer engineer with a keen interest in exploring new te
 
 ## About Me
 - 💻 Experienced in: C/C++, Python, SQL, PHP (Laravel), Angular, MODIFIED ASSEMBLY
-- 🔭 Currently working as a Back-end Developer
+- 🔭 Currently looking for employment as Project Analyst or Back-end Developer
 
 ## Learning
 - 🌱 Currently expanding knowledge in:
